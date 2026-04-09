@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-jrp-demolition.dream-surge.com/sitemap-index.xml
